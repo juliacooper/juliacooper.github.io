@@ -4,8 +4,28 @@
 
 body {
   background-color: #BAE1E6;
+  padding-left: 5%;
+  padding-right: 5%;
 }
 
 .Heading {
-  font-size: 30;
+  font-size: 20;
+  font-weight: bold;
+}
+
+.Content {
+  font-size: 15;
+}
+.Nonbullet {
+  font-size: 15;
+}
+.Nonbullet li {
+  list-style-type: none;
+}
+
+.Bulletted {
+  font-size: 15;
+}
+.Bulletted li {
+  list-style-type: circle;
 }

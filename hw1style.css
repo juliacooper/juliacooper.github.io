@@ -1,5 +1,5 @@
 .name {
-  font-size: 30;
+  font-size: 30px;
 }
 
 body {
@@ -18,22 +18,22 @@ h1 {
   color: white;
 }
 .Heading {
-  font-size: 18;
+  font-size: 18px;
   font-weight: bold;
 }
 
 .Content {
-  font-size: 15;
+  font-size: 15px;
 }
 .Nonbullet {
-  font-size: 15;
+  font-size: 15px;
 }
 .Nonbullet li {
   list-style-type: none;
 }
 
 .Bulletted {
-  font-size: 15;
+  font-size: 15px;
 }
 .Bulletted li {
   list-style-type: circle;

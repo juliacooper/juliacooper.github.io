@@ -8,6 +8,15 @@ body {
   padding-right: 5%;
 }
 
+h1 {
+  font-family: monospace;
+  font-size: 50px;
+}
+.Link {
+  font-size: 40px;
+  font-family: monospace;
+  color: white;
+}
 .Heading {
   font-size: 18;
   font-weight: bold;
@@ -28,4 +37,10 @@ body {
 }
 .Bulletted li {
   list-style-type: circle;
+}
+
+.Bio {
+  font-family: monospace;
+  font-size: 20px;
+  color: white;
 }

@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color: #BAE1E6;
+  background-color: #6FC6D1;
   padding-left: 5%;
   padding-right: 5%;
 }
@@ -50,12 +50,7 @@ h1 {
 }
 
 .Bio {
-  background-color: #7BABB0;
   font-family: monospace;
   font-size: 20px;
   color: white;
-  padding-left: 2%;
-  padding-right: 2%;
-  padding-bottom: 2%;
-  padding-top: 2%;
 }

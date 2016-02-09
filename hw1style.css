@@ -12,6 +12,15 @@ h1 {
   font-family: monospace;
   font-size: 50px;
 }
+
+.Bold {
+  font-weight: bold;
+}
+
+.Ital {
+  font-style: italic;
+}
+
 .Link {
   font-size: 40px;
   font-family: monospace;
